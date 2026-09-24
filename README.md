@@ -1,2 +1,2 @@
-# Atividade_react_e_props
-Atividade react+props
+# Atividade_React_Props
+Atividade de React e Props Pw2
